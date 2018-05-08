@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "prakash",
+      "email": "email@oo.com",
+      "password": "pass"
+    },
+    {
+      "id": 2,
+      "name": "prakash1",
+      "email": "prakash@kk.com",
+      "password": "abc123"
+    },
+    {
+      "id": 3,
+      "name": "raja",
+      "email": "raja@gmail.com",
+      "password": "abc123"
+    },
+    {
+      "id": 4,
+      "name": "sri",
+      "email": "sri@mail.com",
+      "password": "abc123"
+    },
+    {
+      "id": 5,
+      "name": "sri",
+      "email": "sri@mail.com",
+      "password": "abc"
+    },
+    {
+      "id": 6,
+      "name": "yoyo",
+      "email": "yoyo@mail.com",
+      "password": "ggg123"
+    },
+    {
+      "id": 7,
+      "name": "oo",
+      "email": "oo@hh.co",
+      "password": "abc"
+    },
+    {
+      "id": 8,
+      "name": "Rajehs",
+      "email": "rajhes@gmc.com",
+      "password": "pass123"
+    },
+    {
+      "id": 9,
+      "name": "srihari",
+      "email": "srihari@yo.co",
+      "password": "pass123"
+    },
+    {
+      "id": 10,
+      "name": "sriharinath",
+      "email": "sriharinath@email.com",
+      "password": "pasword123"
+    },
+    {
+      "id": 11,
+      "name": "sri",
+      "email": "sri@gmail.com",
+      "password": "123123"
+    },
+    {
+      "id": 12,
+      "name": "dsdf",
+      "email": "sdfs@sd.hge",
+      "password": "fdf"
+    },
+    {
+      "id": 13,
+      "name": "Hi",
+      "email": "hi@kk.com",
+      "password": "pass"
+    },
+    {
+      "id": 14,
+      "name": "gg",
+      "email": "gggz@s.co",
+      "password": "ssss"
+    },
+    {
+      "id": 15,
+      "name": "uuuu",
+      "email": "uuuu@dd.gg",
+      "password": "fffff"
+    },
+    {
+      "id": 16,
+      "name": "loader",
+      "email": "loader@kk.com",
+      "password": "loader"
+    }
+  ]
+}
